@@ -1,3 +1,4 @@
+
 ###Course structure - [course/course.xml](course/course.xml)
 * [Section] Semana 0: Introducción - [chapter/f2a7a2e1d02f4678b3bf9f778772d3c8.xml](chapter/f2a7a2e1d02f4678b3bf9f778772d3c8.xml)
 	* [Subsection] ¿Por qué Fundamentos Informáticos? - [sequential/53edecc5af1a484585e5c3ab41f5e302](sequential/53edecc5af1a484585e5c3ab41f5e302)  
